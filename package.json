@@ -1,0 +1,23 @@
+{
+  "name": "openai-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrishan1993/openai-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrishan1993/openai-playground/issues"
+  },
+  "homepage": "https://github.com/mrishan1993/openai-playground#readme",
+  "dependencies": {
+    "openai": "^4.24.7"
+  }
+}
