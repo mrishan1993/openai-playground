@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/mrishan1993/openai-playground#readme",
   "dependencies": {
-    "openai": "^4.24.7"
+    "csv-parse": "^5.5.3",
+    "fs": "^0.0.1-security",
+    "openai": "^4.24.7",
+    "path": "^0.12.7"
   }
 }
